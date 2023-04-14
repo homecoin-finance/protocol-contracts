@@ -1,9 +1,9 @@
-# BaconCoin
+# HomeCoin
 
-A Stable Coin+ backed by U.S. Homes.
+A Stable Coin backed by U.S. Homes. DAO governed by the RWA token.
 
-Contract source for the [BaconCoin](www.baconcoin.com) protocol.
+Contract source for the [HomeCoin](www.homecoin.finance) protocol.
 
-bHOME: https://etherscan.io/token/0xa54d2EBfD977ad836203c85F18db2F0a0cF88854
+HOME: https://etherscan.io/token/0xb8919522331C59f5C16bDfAA6A121a6E03A91F62
 
-BACON: https://etherscan.io/token/0xa54d2EBfD977ad836203c85F18db2F0a0cF88854
+RWA: https://etherscan.io/token/0x6aA030a9710CAD6E719A4EC0a85260Eb3F4F86c1
